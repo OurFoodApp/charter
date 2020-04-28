@@ -1,4 +1,4 @@
-OurFood Charter
+OurFood Charter *DRAFT*
 ===
 
 ![OurFood logo, 5 raised hands hold up a dinner plate](/logo.png?raw=true)
