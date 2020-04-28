@@ -3,6 +3,8 @@ OurFood Charter
 
 This document describes the aims and operation of the OurFood application / workers' co-op.
 
+If you are interested in joining or contributing, please email kmfevllt0@gmail.com (until a better method is devised)
+
 ### The situation as of Monday April 27th, 2020
 
 **Food delivery applications** represent a large and increasing share of the methods people use to access food, whether it be applications like Instacart or Foodora.
