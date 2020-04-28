@@ -9,11 +9,13 @@ If you are interested in joining or contributing, please email kmfevllt0@gmail.c
 
 ### The situation as of Monday April 27th, 2020
 
-**Food delivery applications** represent a large and increasing share of the methods people use to access food, whether it be applications like Instacart or Foodora.
+Today, the company Foodora [announced](https://www.cbc.ca/news/business/foodora-canada-closing-may-1.5546642) they will be shutting down due to the workers attempting to unionize. This is a classic behaviour of companies forced into a corner by successful worker action. Delivery workers are left wondering what to do.
 
-The **very profitable companies** which dominate this space have spent a relatively small amount of money to develop a mobile application, a backend, and the basic infrastructure needed to run a business (accounting, operations, etc.), and the rest - as they say - is history.
+Food delivery applications represent a large and increasing share of the methods people use to access food, whether it be applications like Instacart or Foodora.
 
-By offering this service successfully and at scale, these companies have signed up a **huge number of workers**, a huge number of restaurants, and deliver orders to thousands of people every day.
+The *very profitable companies* which dominate this space have spent a relatively small amount of money to develop a mobile application, a backend, and the basic infrastructure needed to run a business (accounting, operations, etc.), and the rest - as they say - is history.
+
+By offering this service successfully and at scale, these companies have signed up a *huge number of workers*, a huge number of restaurants, and deliver orders to thousands of people every day.
 
 These companies position themselves as relative monopolies, parasitizing the flow of money between workers, consumers, and restaurants, and deliberately attempt to keep all of these parties in the dark when it comes to the fact that it could be done differently.
 
@@ -23,7 +25,7 @@ OurFood aims to replace these parasitic companies with **a service owned, operat
 
 We naturally have an interest in assuring a top quality service to the customers we serve (unlike these companies), because we live in these communities, and we ourselves will need to make use of the service.
 
-OurFood aims to provide a preferential business model from the perspective of restaurants as well, since compared to the existing private companies who are bloated with management, advertising costs, and the needs to pay dividends to shareholders.
+OurFood aims to provide a preferential business model from the perspective of restaurants as well, since compared to the existing private companies who are bloated with management, advertising costs, and the needs to pay dividends to shareholders ([Delivery Hero](https://en.wikipedia.org/wiki/Delivery_Hero), which owns Foodora, reported *18,070* employees in 2018).
 
 ## The operation of OurFood
 
