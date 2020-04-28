@@ -54,7 +54,9 @@ In addition to the delivery workers, some workers will be needed who are capable
 
 #### Phase 3: onboarding restaurants
 
-A handful of restaurants will be approached to consider offering delivery via this app, which will provide them most attractively with a preferential rate on orders not available to the parasitizing app giants; should the app giants seek to lower their rates in response due to the availability of capital for their venture, this will harm their bottom line, but is not something that can save them in the long run (see phase 4). The experience of these early adopters will be used to improve the system.
+A handful of restaurants will be approached to consider offering delivery via this app, which will provide them most attractively with a preferential rate on orders not available to the parasitizing app giants. The experience of these early adopters will be used to improve the system.
+
+Should the app giants attempt to lower their rates in response, due to the easy availability of capital injections to keep their business afloat, this will first of all harm their bottom line, but also this is not something that can save them in the long run (see phase 4).
 
 #### Phase 4: mass roll-out
 
