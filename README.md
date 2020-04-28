@@ -1,6 +1,8 @@
 OurFood Charter
 ===
 
+![OurFood logo, 5 raised hands hold up a dinner plate](/logo.png?raw=true)
+
 This document describes the aims and operation of the OurFood application / workers' co-op.
 
 If you are interested in joining or contributing, please email kmfevllt0@gmail.com (until a better method is devised)
