@@ -31,7 +31,7 @@ OurFood aims to provide a preferential business model from the perspective of re
 
 OurFood will operate as a democratic workers' co-operative.
 
-All positions of authority in the (very slim) central organizational structure will be:
+All positions of authority in the (very slim) central organizational structure needed to make decisions efficiently (without lengthy votes on every small matter) will be:
 
 - appointed by democratic vote
 - open to immediate recall at any time
