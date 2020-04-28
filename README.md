@@ -11,13 +11,13 @@ If you are interested in joining or contributing, please email kmfevllt0@gmail.c
 
 The **very profitable companies** which dominate this space have spent a relatively small amount of money to develop a mobile application, a backend, and the basic infrastructure needed to run a business (accounting, operations, etc.), and the rest - as they say - is history.
 
-By offering this service successfully and at scale, these companies have signed up a huge number of workers, a huge number of restaurants, and deliver orders to thousands of people every day.
+By offering this service successfully and at scale, these companies have signed up a **huge number of workers**, a huge number of restaurants, and deliver orders to thousands of people every day.
 
 These companies position themselves as relative monopolies, parasitizing the flow of money between workers, consumers, and restaurants, and deliberately attempt to keep all of these parties in the dark when it comes to the fact that it could be done differently.
 
 ## The aims of OurFood
 
-OurFood aims to replace these parasitic companies with a service owned, operated, and democratically controlled by the workers who do the work of delivering food.
+OurFood aims to replace these parasitic companies with **a service owned, operated, and democratically controlled by the workers who do the work of delivering food.**
 
 We naturally have an interest in assuring a top quality service to the customers we serve (unlike these companies), because we live in these communities, and we ourselves will need to make use of the service.
 
