@@ -7,7 +7,7 @@ This document describes the aims and operation of the OurFood application / work
 
 If you are interested in joining or contributing, please email kmfevllt0@gmail.com (until a better method is devised)
 
-### The situation as of Monday April 27th, 2020
+## 1. The situation as of Monday April 27th, 2020
 
 Today, the company Foodora [announced](https://www.cbc.ca/news/business/foodora-canada-closing-may-1.5546642) they will be shutting down due to the workers attempting to unionize. This is a classic behaviour of companies forced into a corner by successful worker action. Delivery workers are left wondering what to do.
 
@@ -19,7 +19,7 @@ By offering this service successfully and at scale, these companies have signed 
 
 These companies position themselves as relative monopolies, parasitizing the flow of money between workers, consumers, and restaurants, and deliberately attempt to keep all of these parties in the dark when it comes to the fact that it could be done differently.
 
-## The aims of OurFood
+## 2. The aims of OurFood
 
 OurFood aims to replace these parasitic companies with **a service owned, operated, and democratically controlled by the workers who do the work of delivering food.**
 
@@ -27,7 +27,7 @@ We naturally have an interest in assuring a top quality service to the customers
 
 OurFood aims to provide a preferential business model from the perspective of restaurants as well, since compared to the existing private companies who are bloated with management, advertising costs, and the needs to pay dividends to shareholders ([Delivery Hero](https://en.wikipedia.org/wiki/Delivery_Hero), which owns Foodora, reported *18,070* employees in 2018), this service will run on a bare-bones budget, passing the savings on to workers, consumers, and restaurants (but primarily workers, who deserve a living wage).
 
-## The operation of OurFood
+## 3. The operation of OurFood
 
 OurFood will operate as a democratic workers' co-operative.
 
@@ -38,7 +38,7 @@ All positions of authority in the (very slim) central organizational structure n
 
 Further, anybody elected in this way to work for the co-op as a non-delivery worker will be paid a rate of wages no higher than the average for the delivery workers.
 
-## The roadmap
+## 4. The roadmap
 
 This document is merely a beginning. The phases of the growth of this co-op will depend on many factors. The most basic beginning is to spark the idea, and gather interest and discussion. A starting point for a roadmap could be the following phases of growth:
 
