@@ -25,7 +25,7 @@ OurFood aims to replace these parasitic companies with **a service owned, operat
 
 We naturally have an interest in assuring a top quality service to the customers we serve (unlike these companies), because we live in these communities, and we ourselves will need to make use of the service.
 
-OurFood aims to provide a preferential business model from the perspective of restaurants as well, since compared to the existing private companies who are bloated with management, advertising costs, and the needs to pay dividends to shareholders ([Delivery Hero](https://en.wikipedia.org/wiki/Delivery_Hero), which owns Foodora, reported *18,070* employees in 2018), this service will run on a bare-bones budget, passing the savings on to workers, consumers, and restaurants.
+OurFood aims to provide a preferential business model from the perspective of restaurants as well, since compared to the existing private companies who are bloated with management, advertising costs, and the needs to pay dividends to shareholders ([Delivery Hero](https://en.wikipedia.org/wiki/Delivery_Hero), which owns Foodora, reported *18,070* employees in 2018), this service will run on a bare-bones budget, passing the savings on to workers, consumers, and restaurants (but primarily workers, who deserve a living wage).
 
 ## The operation of OurFood
 
